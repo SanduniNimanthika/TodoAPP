@@ -9,4 +9,4 @@
 </h3>
 <ul><li>React-Native</li><li>JavaScript</li></ul>
 <p>In bellow i added some screenshots in this project</p>
-<img src="images/Screenshot (5).png" width="500", height="400" >
+<img src="images/Screenshot_2020-12-05-10-39-43.png" width="230", height="400" >
